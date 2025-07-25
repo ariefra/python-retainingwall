@@ -1,0 +1,7 @@
+{
+  "wall_height_m": 7.0,
+  "active_soil_type": "boulder_compacted_to_cbr_40_percent",
+  "shear_key_used": true,
+  "shear_key_position": "toe",
+  "output_html": true
+}
